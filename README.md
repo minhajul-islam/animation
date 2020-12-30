@@ -3,7 +3,7 @@ Build a React Native App where the user of the app will be able to
 take pictures using the camera and then view the photos on the app.
 
 ## App features will include:
--[x] Clicking on the Camera button opens the Camera module.
+- [x] Clicking on the Camera button opens the Camera module.
 * The pictures taken from the camera are shown on the app like an image
 Gallery.
 * A click on a specific image on the list shows the image on a modal.
