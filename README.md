@@ -4,16 +4,16 @@ take pictures using the camera and then view the photos on the app.
 
 ## App features will include:
 - [x] Clicking on the Camera button opens the Camera module.
-* The pictures taken from the camera are shown on the app like an image
+- [x] The pictures taken from the camera are shown on the app like an image
 Gallery.
-* A click on a specific image on the list shows the image on a modal.
-* The modal can be closed with a ‘X’ button at the top right or anywhere else
+- [x] A click on a specific image on the list shows the image on a modal.
+- [x] The modal can be closed with a ‘X’ button at the top right or anywhere else
 on the screen besides the modal.
-* The Image gallery can show 4 pictures at a time, so add a pagination at the
+- [x] The Image gallery can show 4 pictures at a time, so add a pagination at the
 bottom.
-* The pagination should contain the number of pages available and both ‘prev’
+- [x] The pagination should contain the number of pages available and both ‘prev’
 and ‘next’ buttons.
-* Adding animation on the page switch is a bonus.
+- [x] Adding animation on the page switch is a bonus.
 ## Things to keep in mind:
 * You can either use Expo or React Native CLI for this project.
 * Besides the Camera module, do not use any other libraries for the rest of the
